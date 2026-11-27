@@ -1,6 +1,6 @@
 # Aude Nguepa
 
-Étudiante ingénieure en cybersécurité et cloud (Efrei Paris, 4e année).
+Étudiante ingénieure en cybersécurité et cloud (Efrei Paris, 2e année en école d'ingénieurs).
 À la recherche d'un stage en cybersécurité (SOC, conseil, sécurité réseau et cloud), disponible immédiatement en Île-de-France.
 
 ## Mes projets
