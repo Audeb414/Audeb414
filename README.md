@@ -1,7 +1,7 @@
 # Aude Nguepa
 
 Étudiante ingénieure en cybersécurité et cloud (Efrei Paris, 4e année).
-À la recherche d'un stage de 20 semaines en cybersécurité (SOC, conseil, sécurité réseau et cloud), disponible immédiatement en Île-de-France.
+À la recherche d'un stage en cybersécurité (SOC, conseil, sécurité réseau et cloud), disponible immédiatement en Île-de-France.
 
 ## Mes projets
 
